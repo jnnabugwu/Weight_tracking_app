@@ -16,7 +16,8 @@ class WeightDisplayScreen extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('Weight Tracking App', style: ),
+        title:
+            const Text('Weight Tracking App', style: TextStyle(fontSize: 52)),
         actions: [
           IconButton(
               onPressed: () {
@@ -42,7 +43,7 @@ class WeightDisplayScreen extends StatelessWidget {
               return Card(
                 child: ListTile(
                   title: Text(
-                      "${logs[index].timestamp.toUtc()} ${logs[index].weight.toString()} "),
+                      "${logs[index].timestamp} ${logs[index].weight.toString()} "),
                   subtitle: Text(logs[index].note),
                 ),
               );
