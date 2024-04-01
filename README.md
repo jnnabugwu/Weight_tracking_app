@@ -1,6 +1,6 @@
-# sofi_interview_2
+# Weight_tracking_app
 
-A new Flutter project.
+Each log has a time stamp.
 
 ## Getting Started
 
