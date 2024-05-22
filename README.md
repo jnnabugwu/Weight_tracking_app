@@ -1,6 +1,6 @@
 # Weight_tracking_app
 
-A simple weight-tracking app that uses cubits to add the the logs and get all logs. 
+A simple weight-tracking app that uses cubits to add the logs and get all logs. 
 
 ## Getting Started
 
