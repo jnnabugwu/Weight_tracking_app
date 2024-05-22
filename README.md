@@ -1,6 +1,6 @@
 # Weight_tracking_app
 
-Each log has a time stamp.
+A simple weight-tracking app that uses cubits to add the the logs and get all logs. 
 
 ## Getting Started
 
